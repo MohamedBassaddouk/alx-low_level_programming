@@ -8,7 +8,10 @@
  *     */
 int main(void)
 {
+		/*
+		 * 	 * This is a block comment
+		 * 	 	 */
 	    printf("_putchar\n");
-	        return 0;
+	        return (0);
 }
 
